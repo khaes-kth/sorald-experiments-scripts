@@ -35,7 +35,7 @@ public class Main {
                 JSONArray locations = (JSONArray) minedRule.get("warningLocations");
                 for(int j = 0; j < locations.size(); j++){
                     JSONObject location = (JSONObject) locations.get(j);
-                    String usableLocation = (String) location.get("usableLocation");
+                    String usableLocation = (String) location.get("violationSpecifier");
 
                     pw.println(ruleKey + "," + usableLocation + "," + minedReport.getName());
                 }

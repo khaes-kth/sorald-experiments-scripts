@@ -24,14 +24,14 @@
             "startColumn": 22,
             "startLine": 6,
             "filePath": "C\\other\\daneshgah\\phd-kth\\projects\\sorald\\sorald\\..\\tmp\\test\\hello-world\\HelloWorld.java",
-            "usableLocation": "4973###C\\other\\daneshgah\\phd-kth\\projects\\sorald\\sorald\\..\\tmp\\test\\hello-world\\HelloWorld.java###6###6###22###24"
+            "violationSpecifier": "4973###C\\other\\daneshgah\\phd-kth\\projects\\sorald\\sorald\\..\\tmp\\test\\hello-world\\HelloWorld.java###6###6###22###24"
         },{
                       "endLine": 6,
                       "endColumn": 24,
                       "startColumn": 28,
                       "startLine": 6,
                       "filePath": "C\\other\\daneshgah\\phd-kth\\projects\\sorald\\sorald\\..\\tmp\\test\\hello-world\\HelloWorld.java",
-                      "usableLocation": "4973###C\\other\\daneshgah\\phd-kth\\projects\\sorald\\sorald\\..\\tmp\\test\\hello-world\\HelloWorld.java###6###6###28###24"
+                      "violationSpecifier": "4973###C\\other\\daneshgah\\phd-kth\\projects\\sorald\\sorald\\..\\tmp\\test\\hello-world\\HelloWorld.java###6###6###28###24"
                   }],
         "nbFoundWarnings": 1,
         "ruleName": "CompareStringsBoxedTypesWithEqualsCheck",
