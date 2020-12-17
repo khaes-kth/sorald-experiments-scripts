@@ -1,0 +1,41 @@
+{
+    "totalMiningTime": 1074,
+    "executionInfo": {
+        "soraldVersion": "92d377cc39f63be35f9bee00d372c8f1ca06be5e",
+        "javaVersion": "13.0.1",
+        "originalArgs": [
+            "mine",
+            "--originalFilesPath",
+            "..\\tmp\\test\\hello-world",
+            "--statsOutputFile",
+            "..\\tmp\\test\\output.txt",
+            "--tempDir",
+            "..\\tmp\\test\\tmp",
+            "--target",
+            "hello-world"
+        ],
+        "target": "hello-world"
+    },
+    "miningStartTime": "Mon Dec 07 15:11:55 CET 2020",
+    "minedRules": [{
+        "warningLocations": [{
+            "endLine": 6,
+            "endColumn": 24,
+            "startColumn": 22,
+            "startLine": 6,
+            "filePath": "C\\other\\daneshgah\\phd-kth\\projects\\sorald\\sorald\\..\\tmp\\test\\hello-world\\HelloWorld.java",
+            "usableLocation": "4973###C\\other\\daneshgah\\phd-kth\\projects\\sorald\\sorald\\..\\tmp\\test\\hello-world\\HelloWorld.java###6###6###22###24"
+        },{
+                      "endLine": 6,
+                      "endColumn": 24,
+                      "startColumn": 28,
+                      "startLine": 6,
+                      "filePath": "C\\other\\daneshgah\\phd-kth\\projects\\sorald\\sorald\\..\\tmp\\test\\hello-world\\HelloWorld.java",
+                      "usableLocation": "4973###C\\other\\daneshgah\\phd-kth\\projects\\sorald\\sorald\\..\\tmp\\test\\hello-world\\HelloWorld.java###6###6###28###24"
+                  }],
+        "nbFoundWarnings": 1,
+        "ruleName": "CompareStringsBoxedTypesWithEqualsCheck",
+        "ruleKey": "4973"
+    }],
+    "miningEndTime": "Mon Dec 07 15:11:56 CET 2020"
+}
